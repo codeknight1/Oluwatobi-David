@@ -72,21 +72,6 @@ nav ul {
   margin: 0;
   padding: 0;
 }
-/* .categories ul {
-  margin: 0;
-  padding: 0;
-}
-.categories ul li {
-  display: inline-block;
-  padding: 10px 20px;
-}
-.categories ul li a {
-  color: white;
-  text-decoration: none;
-}
-.categories ul li a:hover {
-  color: blue;
-} */
 nav ul li {
   display: inline-block;
   padding: 40px 20px;
@@ -144,7 +129,6 @@ nav ul li a:hover {
   text-align: center;
 }
 .text {
-  /* background-color: rgba(255, 255, 255, 0.842); */
   height: 580px;
   margin-bottom: -28rem;
 }
